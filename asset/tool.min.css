@@ -211,12 +211,12 @@
 
 .zikir-card-arabic {
     font-family: var(--arabic-font);
-    font-size: 1.1rem;
+    font-size: 2rem;
     text-align: right;
     direction: rtl;
     color: var(--primary-dark);
     margin: 0.5rem 0;
-    line-height: 1.8;
+    line-height: 2;
 }
 
 .zikir-card-meta {
