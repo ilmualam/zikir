@@ -211,8 +211,8 @@
 
 .zikir-card-arabic {
     font-family: var(--arabic-font);
-    font-size: 2rem;
-   font-weight:600;
+    font-size: 1.5rem;
+   font-weight:500;
     text-align: right;
     direction: rtl;
     color: var(--primary-dark);
@@ -312,8 +312,9 @@
 
 .arabic-text {
     font-family: var(--arabic-font);
-    font-size: 1.75rem;
+    font-size: 2.2rem;
     line-height: 2;
+    font-weight:600;
     direction: rtl;
     text-align: center;
     color: var(--primary-dark);
